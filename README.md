@@ -5,5 +5,5 @@
 Para Rodar Esse Projeto Na Sua Máquina:
 
 ```
-NODE app.js
+Node app.js
 ```
